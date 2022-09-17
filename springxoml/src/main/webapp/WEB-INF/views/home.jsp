@@ -4,9 +4,9 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Welcome Page</title>
+<title>Insert title here</title>
 </head>
 <body>
-Greeting : ${greeting}
+Server Time:${serverTime}
 </body>
 </html>
